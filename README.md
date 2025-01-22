@@ -1,4 +1,4 @@
-# Hi there, I'm Ines 👋
+# Hi there, I'm Inès 👋
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer currently in my second year at Holberton School. I have experience with a variety of technologies and have worked on several exciting projects.
 
